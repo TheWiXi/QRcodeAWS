@@ -6,3 +6,5 @@
 - Características técnicas: El servicio REST debe hacer uso de autenticación con un token de un usuario existente en AWS.
 - **Criterio de evaluación:**
   Se debe poder consumir el servicio con un cliente como Postman y poder ver los archivos almacenados en la nube
+
+### Scripts de uso
