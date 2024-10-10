@@ -6,3 +6,15 @@
 - Características técnicas: El servicio REST debe hacer uso de autenticación con un token de un usuario existente en AWS.
 - **Criterio de evaluación:**
   Se debe poder consumir el servicio con un cliente como Postman y poder ver los archivos almacenados en la nube
+
+### Instrucciones
+
+IMPORTANTE ! asegurarse de tener las variables de entorno configuradas.
+
+```
+git clone https://github.com/TheWiXi/QRcodeAWS/settings
+
+npm i
+
+npm run dev
+```
